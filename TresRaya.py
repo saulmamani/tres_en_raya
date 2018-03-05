@@ -1,3 +1,10 @@
+"""
+@author: Saul Mamani
+@email: luas0_1@yahoo.es
+@web: saulmamani.github.io
+@phone: +591 76137269
+"""
+
 import random
 import os
 
